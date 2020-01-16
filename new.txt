@@ -1,1 +1,3 @@
 this is my 3rd txt file to be added to git
+adding new line to 3rd file
+
